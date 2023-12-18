@@ -37,6 +37,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 This project is used by the following companies:
 
-- Company 1
-- Company 2
+- dzyradev.id
+- flarinska.id
 
