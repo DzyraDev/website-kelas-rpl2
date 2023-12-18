@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  @import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+
+footer, .text-footer p {
+    font-size: 1rem;
+    color: #fff;
+}
+
+#judul a {
+    font-family: 'Londrina Solid', sans-serif;
+}
